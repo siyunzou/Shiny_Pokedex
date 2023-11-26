@@ -1,0 +1,152 @@
+idx,pokemon,speciesURL,habitat,captureRate,type,moves,url_id
+1,bulbasaur,https://pokeapi.co/api/v2/pokemon-species/1/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",001
+2,ivysaur,https://pokeapi.co/api/v2/pokemon-species/2/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",002
+3,venusaur,https://pokeapi.co/api/v2/pokemon-species/3/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",003
+4,charmander,https://pokeapi.co/api/v2/pokemon-species/4/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",004
+5,charmeleon,https://pokeapi.co/api/v2/pokemon-species/5/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",005
+6,charizard,https://pokeapi.co/api/v2/pokemon-species/6/,mountain,45,"fire, flying","mega-punch,fire-punch,thunder-punch,scratch,swords-dance",006
+7,squirtle,https://pokeapi.co/api/v2/pokemon-species/7/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",007
+8,wartortle,https://pokeapi.co/api/v2/pokemon-species/8/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",008
+9,blastoise,https://pokeapi.co/api/v2/pokemon-species/9/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",009
+1,caterpie,https://pokeapi.co/api/v2/pokemon-species/10/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",010
+1,metapod,https://pokeapi.co/api/v2/pokemon-species/11/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",011
+1,butterfree,https://pokeapi.co/api/v2/pokemon-species/12/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",012
+1,weedle,https://pokeapi.co/api/v2/pokemon-species/13/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",013
+1,kakuna,https://pokeapi.co/api/v2/pokemon-species/14/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",014
+1,beedrill,https://pokeapi.co/api/v2/pokemon-species/15/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",015
+1,pidgey,https://pokeapi.co/api/v2/pokemon-species/16/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",016
+1,pidgeotto,https://pokeapi.co/api/v2/pokemon-species/17/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",017
+1,pidgeot,https://pokeapi.co/api/v2/pokemon-species/18/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",018
+1,rattata,https://pokeapi.co/api/v2/pokemon-species/19/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",019
+2,raticate,https://pokeapi.co/api/v2/pokemon-species/20/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",020
+2,spearow,https://pokeapi.co/api/v2/pokemon-species/21/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",021
+2,fearow,https://pokeapi.co/api/v2/pokemon-species/22/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",022
+2,ekans,https://pokeapi.co/api/v2/pokemon-species/23/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",023
+2,arbok,https://pokeapi.co/api/v2/pokemon-species/24/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",024
+2,pikachu,https://pokeapi.co/api/v2/pokemon-species/25/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",025
+2,raichu,https://pokeapi.co/api/v2/pokemon-species/26/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",026
+2,sandshrew,https://pokeapi.co/api/v2/pokemon-species/27/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",027
+2,sandslash,https://pokeapi.co/api/v2/pokemon-species/28/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",028
+2,nidoran-f,https://pokeapi.co/api/v2/pokemon-species/29/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",029
+3,nidorina,https://pokeapi.co/api/v2/pokemon-species/30/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",030
+3,nidoqueen,https://pokeapi.co/api/v2/pokemon-species/31/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",031
+3,nidoran-m,https://pokeapi.co/api/v2/pokemon-species/32/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",032
+3,nidorino,https://pokeapi.co/api/v2/pokemon-species/33/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",033
+3,nidoking,https://pokeapi.co/api/v2/pokemon-species/34/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",034
+3,clefairy,https://pokeapi.co/api/v2/pokemon-species/35/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",035
+3,clefable,https://pokeapi.co/api/v2/pokemon-species/36/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",036
+3,vulpix,https://pokeapi.co/api/v2/pokemon-species/37/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",037
+3,ninetales,https://pokeapi.co/api/v2/pokemon-species/38/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",038
+3,jigglypuff,https://pokeapi.co/api/v2/pokemon-species/39/,grassland,45,"grass, poison","swords-dance,cut,bind,vine-whip,headbutt",039
+4,wigglytuff,https://pokeapi.co/api/v2/pokemon-species/40/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",040
+4,zubat,https://pokeapi.co/api/v2/pokemon-species/41/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",041
+4,golbat,https://pokeapi.co/api/v2/pokemon-species/42/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",042
+4,oddish,https://pokeapi.co/api/v2/pokemon-species/43/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",043
+4,gloom,https://pokeapi.co/api/v2/pokemon-species/44/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",044
+4,vileplume,https://pokeapi.co/api/v2/pokemon-species/45/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",045
+4,paras,https://pokeapi.co/api/v2/pokemon-species/46/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",046
+4,parasect,https://pokeapi.co/api/v2/pokemon-species/47/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",047
+4,venonat,https://pokeapi.co/api/v2/pokemon-species/48/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",048
+4,venomoth,https://pokeapi.co/api/v2/pokemon-species/49/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",049
+5,diglett,https://pokeapi.co/api/v2/pokemon-species/50/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",050
+5,dugtrio,https://pokeapi.co/api/v2/pokemon-species/51/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",051
+5,meowth,https://pokeapi.co/api/v2/pokemon-species/52/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",052
+5,persian,https://pokeapi.co/api/v2/pokemon-species/53/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",053
+5,psyduck,https://pokeapi.co/api/v2/pokemon-species/54/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",054
+5,golduck,https://pokeapi.co/api/v2/pokemon-species/55/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",055
+5,mankey,https://pokeapi.co/api/v2/pokemon-species/56/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",056
+5,primeape,https://pokeapi.co/api/v2/pokemon-species/57/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",057
+5,growlithe,https://pokeapi.co/api/v2/pokemon-species/58/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",058
+5,arcanine,https://pokeapi.co/api/v2/pokemon-species/59/,mountain,45,fire,"mega-punch,fire-punch,thunder-punch,scratch,swords-dance",059
+6,poliwag,https://pokeapi.co/api/v2/pokemon-species/60/,mountain,45,"fire, flying","mega-punch,fire-punch,thunder-punch,scratch,swords-dance",060
+6,poliwhirl,https://pokeapi.co/api/v2/pokemon-species/61/,mountain,45,"fire, flying","mega-punch,fire-punch,thunder-punch,scratch,swords-dance",061
+6,poliwrath,https://pokeapi.co/api/v2/pokemon-species/62/,mountain,45,"fire, flying","mega-punch,fire-punch,thunder-punch,scratch,swords-dance",062
+6,abra,https://pokeapi.co/api/v2/pokemon-species/63/,mountain,45,"fire, flying","mega-punch,fire-punch,thunder-punch,scratch,swords-dance",063
+6,kadabra,https://pokeapi.co/api/v2/pokemon-species/64/,mountain,45,"fire, flying","mega-punch,fire-punch,thunder-punch,scratch,swords-dance",064
+6,alakazam,https://pokeapi.co/api/v2/pokemon-species/65/,mountain,45,"fire, flying","mega-punch,fire-punch,thunder-punch,scratch,swords-dance",065
+6,machop,https://pokeapi.co/api/v2/pokemon-species/66/,mountain,45,"fire, flying","mega-punch,fire-punch,thunder-punch,scratch,swords-dance",066
+6,machoke,https://pokeapi.co/api/v2/pokemon-species/67/,mountain,45,"fire, flying","mega-punch,fire-punch,thunder-punch,scratch,swords-dance",067
+6,machamp,https://pokeapi.co/api/v2/pokemon-species/68/,mountain,45,"fire, flying","mega-punch,fire-punch,thunder-punch,scratch,swords-dance",068
+6,bellsprout,https://pokeapi.co/api/v2/pokemon-species/69/,mountain,45,"fire, flying","mega-punch,fire-punch,thunder-punch,scratch,swords-dance",069
+7,weepinbell,https://pokeapi.co/api/v2/pokemon-species/70/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",070
+7,victreebel,https://pokeapi.co/api/v2/pokemon-species/71/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",071
+7,tentacool,https://pokeapi.co/api/v2/pokemon-species/72/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",072
+7,tentacruel,https://pokeapi.co/api/v2/pokemon-species/73/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",073
+7,geodude,https://pokeapi.co/api/v2/pokemon-species/74/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",074
+7,graveler,https://pokeapi.co/api/v2/pokemon-species/75/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",075
+7,golem,https://pokeapi.co/api/v2/pokemon-species/76/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",076
+7,ponyta,https://pokeapi.co/api/v2/pokemon-species/77/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",077
+7,rapidash,https://pokeapi.co/api/v2/pokemon-species/78/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",078
+7,slowpoke,https://pokeapi.co/api/v2/pokemon-species/79/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",079
+8,slowbro,https://pokeapi.co/api/v2/pokemon-species/80/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",080
+8,magnemite,https://pokeapi.co/api/v2/pokemon-species/81/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",081
+8,magneton,https://pokeapi.co/api/v2/pokemon-species/82/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",082
+8,farfetchd,https://pokeapi.co/api/v2/pokemon-species/83/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",083
+8,doduo,https://pokeapi.co/api/v2/pokemon-species/84/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",084
+8,dodrio,https://pokeapi.co/api/v2/pokemon-species/85/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",085
+8,seel,https://pokeapi.co/api/v2/pokemon-species/86/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",086
+8,dewgong,https://pokeapi.co/api/v2/pokemon-species/87/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",087
+8,grimer,https://pokeapi.co/api/v2/pokemon-species/88/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",088
+8,muk,https://pokeapi.co/api/v2/pokemon-species/89/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",089
+9,shellder,https://pokeapi.co/api/v2/pokemon-species/90/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",090
+9,cloyster,https://pokeapi.co/api/v2/pokemon-species/91/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",091
+9,gastly,https://pokeapi.co/api/v2/pokemon-species/92/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",092
+9,haunter,https://pokeapi.co/api/v2/pokemon-species/93/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",093
+9,gengar,https://pokeapi.co/api/v2/pokemon-species/94/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",094
+9,onix,https://pokeapi.co/api/v2/pokemon-species/95/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",095
+9,drowzee,https://pokeapi.co/api/v2/pokemon-species/96/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",096
+9,hypno,https://pokeapi.co/api/v2/pokemon-species/97/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",097
+9,krabby,https://pokeapi.co/api/v2/pokemon-species/98/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",098
+9,kingler,https://pokeapi.co/api/v2/pokemon-species/99/,waters-edge,45,water,"mega-punch,ice-punch,mega-kick,headbutt,tackle",099
+1,voltorb,https://pokeapi.co/api/v2/pokemon-species/100/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",100
+1,electrode,https://pokeapi.co/api/v2/pokemon-species/101/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",101
+1,exeggcute,https://pokeapi.co/api/v2/pokemon-species/102/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",102
+1,exeggutor,https://pokeapi.co/api/v2/pokemon-species/103/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",103
+1,cubone,https://pokeapi.co/api/v2/pokemon-species/104/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",104
+1,marowak,https://pokeapi.co/api/v2/pokemon-species/105/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",105
+1,hitmonlee,https://pokeapi.co/api/v2/pokemon-species/106/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",106
+1,hitmonchan,https://pokeapi.co/api/v2/pokemon-species/107/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",107
+1,lickitung,https://pokeapi.co/api/v2/pokemon-species/108/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",108
+1,koffing,https://pokeapi.co/api/v2/pokemon-species/109/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",109
+1,weezing,https://pokeapi.co/api/v2/pokemon-species/110/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",110
+1,rhyhorn,https://pokeapi.co/api/v2/pokemon-species/111/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",111
+1,rhydon,https://pokeapi.co/api/v2/pokemon-species/112/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",112
+1,chansey,https://pokeapi.co/api/v2/pokemon-species/113/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",113
+1,tangela,https://pokeapi.co/api/v2/pokemon-species/114/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",114
+1,kangaskhan,https://pokeapi.co/api/v2/pokemon-species/115/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",115
+1,horsea,https://pokeapi.co/api/v2/pokemon-species/116/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",116
+1,seadra,https://pokeapi.co/api/v2/pokemon-species/117/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",117
+1,goldeen,https://pokeapi.co/api/v2/pokemon-species/118/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",118
+1,seaking,https://pokeapi.co/api/v2/pokemon-species/119/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",119
+1,staryu,https://pokeapi.co/api/v2/pokemon-species/120/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",120
+1,starmie,https://pokeapi.co/api/v2/pokemon-species/121/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",121
+1,mr-mime,https://pokeapi.co/api/v2/pokemon-species/122/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",122
+1,scyther,https://pokeapi.co/api/v2/pokemon-species/123/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",123
+1,jynx,https://pokeapi.co/api/v2/pokemon-species/124/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",124
+1,electabuzz,https://pokeapi.co/api/v2/pokemon-species/125/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",125
+1,magmar,https://pokeapi.co/api/v2/pokemon-species/126/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",126
+1,pinsir,https://pokeapi.co/api/v2/pokemon-species/127/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",127
+1,tauros,https://pokeapi.co/api/v2/pokemon-species/128/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",128
+1,magikarp,https://pokeapi.co/api/v2/pokemon-species/129/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",129
+1,gyarados,https://pokeapi.co/api/v2/pokemon-species/130/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",130
+1,lapras,https://pokeapi.co/api/v2/pokemon-species/131/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",131
+1,ditto,https://pokeapi.co/api/v2/pokemon-species/132/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",132
+1,eevee,https://pokeapi.co/api/v2/pokemon-species/133/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",133
+1,vaporeon,https://pokeapi.co/api/v2/pokemon-species/134/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",134
+1,jolteon,https://pokeapi.co/api/v2/pokemon-species/135/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",135
+1,flareon,https://pokeapi.co/api/v2/pokemon-species/136/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",136
+1,porygon,https://pokeapi.co/api/v2/pokemon-species/137/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",137
+1,omanyte,https://pokeapi.co/api/v2/pokemon-species/138/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",138
+1,omastar,https://pokeapi.co/api/v2/pokemon-species/139/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",139
+1,kabuto,https://pokeapi.co/api/v2/pokemon-species/140/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",140
+1,kabutops,https://pokeapi.co/api/v2/pokemon-species/141/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",141
+1,aerodactyl,https://pokeapi.co/api/v2/pokemon-species/142/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",142
+1,snorlax,https://pokeapi.co/api/v2/pokemon-species/143/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",143
+1,articuno,https://pokeapi.co/api/v2/pokemon-species/144/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",144
+1,zapdos,https://pokeapi.co/api/v2/pokemon-species/145/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",145
+1,moltres,https://pokeapi.co/api/v2/pokemon-species/146/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",146
+1,dratini,https://pokeapi.co/api/v2/pokemon-species/147/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",147
+1,dragonair,https://pokeapi.co/api/v2/pokemon-species/148/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",148
+1,dragonite,https://pokeapi.co/api/v2/pokemon-species/149/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",149
+1,mewtwo,https://pokeapi.co/api/v2/pokemon-species/150/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",150
+1,mew,https://pokeapi.co/api/v2/pokemon-species/151/,grassland,45,"grass, poison","razor-wind,swords-dance,cut,bind,vine-whip",151
