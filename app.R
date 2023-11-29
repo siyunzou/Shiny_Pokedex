@@ -1,7 +1,17 @@
-library(shiny)
+#library(shiny)
 library(shinydashboard)
 library(plotly)
 library(bslib)
+library(rsconnect)
+
+library(tidyverse)
+library(dplyr)
+
+pokeframe_df <- read_csv("pokemon_df.csv")
+
+pokeframe_df <- pokeframe_df %>% arrange(id, pokemon)
+
+pokemon_list <- as.list(pokeframe_df$pokemon)
 
 ui <- fluidPage(
   theme = bs_theme(bootswatch = "flatly"),
@@ -33,16 +43,11 @@ ui <- fluidPage(
     # third tab: some statistical visualization
     tabPanel("Visualizations",
              titlePanel("Data Visualizations"),
-             sidebarLayout(position = "left",
-              sidebarPanel("Select a Visualization: ",
-                           checkboxInput("Height and Weight Plot", "Type Plot", value = T)),
-              mainPanel(splitLayout(cellWidths = c("50%", "50%"), 
-                                    plotlyOutput("plot1"), plotlyOutput("plot2"),
-                                    width="500px",height="400px")
+              mainPanel(plotlyOutput("plot1"),
+                         plotlyOutput("plot2"))
               )
              
   ))
-))
 
 library(png)
 
@@ -67,7 +72,8 @@ server <- function(input, output, session) {
   # third tab: rending plots
   output$plot1 <- renderPlotly({
     p <- ggplot(pokeframe_df, aes(weight, height, color=pokemon)) 
-    p <- p + geom_point() + ggtitle("Height and Weight of Pokémons")
+    p <- p + geom_point() + ggtitle("Height and Weight of Pokémons") +
+      theme(legend.position="none")
     
     ggplotly(p)
     
@@ -75,7 +81,8 @@ server <- function(input, output, session) {
   
   output$plot2 <- renderPlotly({
     p2 <- ggplot(pokeframe_df, aes(type, fill = "blue")) 
-    p2 <- p2 + geom_bar() + coord_flip() + ggtitle("Types of Pokémons")
+    p2 <- p2 + geom_bar() + coord_flip() + ggtitle("Types of Pokémons") +
+      theme(legend.position="none")
     
     ggplotly(p2)
     

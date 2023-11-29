@@ -1,0 +1,12 @@
+name: pokedex
+title:
+username: 0l8xg4-siyun-zou
+account: 0l8xg4-siyun-zou
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10655856
+bundleId: 7981325
+url: https://0l8xg4-siyun-zou.shinyapps.io/pokedex/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

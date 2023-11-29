@@ -121,3 +121,15 @@ pokemon_df$id <- sprintf("%03d", as.numeric(pokemon_df$id))
 
 write_csv(pokemon_df, "pokemon_df.csv")
 
+#-------------------------R Wrapper-----------------------------------
+# install.packages("devtools")
+# install.packages("roxygen2")
+# install.packages("usethis")
+# install.packages("curl")
+# install.packages("httr")
+# install.packages("jsonlite")
+# install.packages("attempt")
+# install.packages("purrr")
+# devtools::install_github("r-lib/desc")
+
+
