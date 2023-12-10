@@ -1,5 +1,3 @@
-# API Call https://nguyeneva.github.io/2020-02-06-rwrapper/
-
 library(jsonlite) 
 library(httr) 
 library(tidyverse)
@@ -8,6 +6,14 @@ library(dplyr)
 library(urltools)
 library(re2)
 library(devtools)
+
+# I started the API section first using an R wrapper I found on github.
+# However, after installing and it and using it I noticed that some of the data
+# is in accurate so I ended up creating my own wrapper. 
+
+#-----------------------------Using Eva Ngyuen's wrapper--------------------------
+# API Call https://nguyeneva.github.io/2020-02-06-rwrapper/
+
 devtools::install_github("nguyeneva/data534_project/pokeWrapper")
 
 library(pokeWrapper)
@@ -120,16 +126,4 @@ for (i in ids){
 pokemon_df$id <- sprintf("%03d", as.numeric(pokemon_df$id))
 
 write_csv(pokemon_df, "pokemon_df.csv")
-
-#-------------------------R Wrapper-----------------------------------
-# install.packages("devtools")
-# install.packages("roxygen2")
-# install.packages("usethis")
-# install.packages("curl")
-# install.packages("httr")
-# install.packages("jsonlite")
-# install.packages("attempt")
-# install.packages("purrr")
-# devtools::install_github("r-lib/desc")
-
 
